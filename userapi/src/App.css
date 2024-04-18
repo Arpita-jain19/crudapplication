@@ -1,0 +1,10 @@
+h2{
+  text-align: center;
+  margin-top: 20px !important;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+  text-decoration: underline !important;
+}
+.card{
+  background-color: white !important;
+}
